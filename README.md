@@ -19,6 +19,8 @@ dependencies so far:
 
 {bcrypt ,config, express, express-validator, jsonwebtoken, mongoose, request}
 
+---
+
 --- July 10, 2020
 I have added the login capability. It can now login and returns the token from the database.
 
