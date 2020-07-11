@@ -1,0 +1,4 @@
+{
+  "Mongo": "mongodb+srv://roger:maradona5@cluster0.9nph8.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwttoken": "the token"
+}
