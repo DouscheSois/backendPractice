@@ -6,8 +6,9 @@ Some of the models include users, posts, profile, auth. Strictly backend work, n
 
 For now it can only register users to the mongoDB, using postman try:
 
-Content-type || applicantion/json
+Header: Content-type || applicantion/json
 
+Raw: 
 {
   "name": "john",
   "email": "john@gmail.com",
