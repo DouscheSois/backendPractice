@@ -2,7 +2,7 @@
 Practice backend. Routes, models, config (global variables). Also working with MongoDB. 
 Some of the models include users, posts, profile, auth. Strictly backend work, no client side.
 
----
+--- July 10, 20
 
 For now it can only register users to the mongoDB, using postman try:
 
