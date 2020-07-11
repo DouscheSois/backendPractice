@@ -22,6 +22,7 @@ dependencies so far:
 ---
 
 --- July 10, 2020
+
 I have added the login capability. It can now login and returns the token from the database.
 
 Header: Content-type || applicantion/json
