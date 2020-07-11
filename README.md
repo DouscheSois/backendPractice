@@ -14,3 +14,7 @@ Raw:
   "email": "john@gmail.com",
   "password": "123456"
 }
+
+dependencies so far:
+
+{bcrypt ,config, express, express-validator, jsonwebtoken, mongoose, request}
